@@ -1,17 +1,17 @@
 # JSONfn
 
-Javascript (both node.js and browser) plugin to stringify / parse / clone jsvascript objects with
+Javascript (both node.js and browser) plugin to stringify / parse / clone javascript objects with
 
   - **Functions**
   - **RegExp**
   - **Date**
 
 
-**Version** - 1.1.0
+**Version** - 1.1.2
 
-**Copyright** (c) Vadim Kiryukhin ( vkiryukhin @ gmail.com )
+**Copyright** (c) William Hindes ( william.hindes @ monogenix.com )
 
-**Home page:** [http://www.eslinstructor.net/jsonfn/](http://www.eslinstructor.net/jsonfn/)
+**Home page:** [http://www.monogenix.com/jsonfn/](http://www.monogenix.com/jsonfn/)
 
 **License:** MIT
 
